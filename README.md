@@ -1,8 +1,3 @@
----
-
-
----
-
 <h1 id="práctica-pb-gh-campus-expert.">Práctica: pb-gh-campus-expert.</h1>
 <h2 id="github-campus-expert">GitHub Campus Expert</h2>
 <p>He accedido a la página de Campus <a href="https://githubcampus.expert/training">Campus Experts</a> para suscribirme a esta y adquirir los beneficios. Se me ha notificado que recibiré más noticias el 13 de marzo.</p>
